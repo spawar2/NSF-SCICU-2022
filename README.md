@@ -2,6 +2,6 @@
 
 Natural Language Processing (NLP) for optimizing career advancement prospects.
 
-App Deployment: https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/
+[App Deployment:](https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/)
 
-Master: https://github.com/JoshuaKiplimo/ResParse
+[Master:](https://github.com/JoshuaKiplimo/ResParse)
