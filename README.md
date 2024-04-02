@@ -14,5 +14,7 @@ https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-43b3c761-ef25-423c
 https://scicu.org/about-scicu/programs/
 https://scicu.org/site/wp-content/uploads/2023/06/SCICU-2022-Annual-Report-final.pdf
 https://campuspress.yale.edu/shrikantpawar/files/2024/02/SCICU-2023-625e275a93f01498-300x200.jpeg
+Project: https://www.claflin-computation.com/_files/ugd/81dd80_0fc28fef39d94861ad5b18e83391a167.docx?dn=JoshuaKipronoThesisDraft.docx
+PPT: https://www.claflin-computation.com/_files/ugd/81dd80_8bb6fb5a75384bd5888fd7d8f43d51af.pdf
 
 <img width="712" alt="SCICU" src="https://github.com/spawar2/NSF-SCICU-2022/assets/25118302/cf45c6e2-5b03-4631-b046-6ce6ed569e40">
