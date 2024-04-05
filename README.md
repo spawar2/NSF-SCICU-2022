@@ -7,7 +7,7 @@ Natural Language Processing (NLP) for optimizing career advancement prospects.
 [Master:](https://github.com/JoshuaKiplimo/ResParse)
 
 SC Independent Colleges & Universities SCICU Undergraduate Student/Faculty Research Program (2022): Utilizing Natural Language Processing (NLP) to increase the effectiveness of finding career opportunities. Student-Joshua Kiprono, $7,169 (direct, 100%). App Deploy: https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/ Poster Link 
-
+Thesis presentation: https://youtu.be/Jx6Q7TaISIU
 https://scicu.org/events/scicu-undergraduate-student-faculty-research-symposium-4/
 https://www.scicu.org/
 https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-43b3c761-ef25-423c-b39c-502c7ea051d5
