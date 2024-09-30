@@ -19,3 +19,6 @@ Project: https://www.claflin-computation.com/_files/ugd/81dd80_0fc28fef39d94861a
 PPT: https://www.claflin-computation.com/_files/ugd/81dd80_8bb6fb5a75384bd5888fd7d8f43d51af.pdf
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 <img width="712" alt="SCICU" src="https://github.com/spawar2/NSF-SCICU-2022/assets/25118302/cf45c6e2-5b03-4631-b046-6ce6ed569e40">
+
+Programming language: + Python.
+π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
