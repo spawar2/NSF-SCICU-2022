@@ -4,10 +4,10 @@ Natural Language Processing (NLP) for optimizing career advancement prospects.
 <img width="523" alt="SCICU" src="https://github.com/spawar2/NSF-SCICU-2022/assets/25118302/8daa9e91-9751-4197-8f80-e9bfddc20965">
 
 [App Deployment:](https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/)
-https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
+https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, United States of America (USA).
 [Master:](https://github.com/JoshuaKiplimo/ResParse)
 https://github.com/JoshuaKiplimo
-SC Independent Colleges & Universities SCICU Undergraduate Student/Faculty Research Program (2022): Utilizing Natural Language Processing (NLP) to increase the effectiveness of finding career opportunities. Student-**Joshua Kiprono  π​++., $7,169 (Direct costs, 100%). App Deploy: https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/ Poster Link , Presently software engineer at Atlassian.
+SC Independent Colleges & Universities SCICU Undergraduate Student/Faculty Research Program (2 February, 2022): Utilizing Natural Language Processing (NLP) to increase the effectiveness of finding career opportunities. Student-**Joshua Kiprono  π​++., $7,169 (Direct costs, 100%). App Deploy: https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/ Poster Link , Presently software engineer at Atlassian.
 Thesis presentation: https://youtu.be/Jx6Q7TaISIU
 https://scicu.org/events/scicu-undergraduate-student-faculty-research-symposium-4/
 https://www.scicu.org/
