@@ -2,7 +2,8 @@
 Date created/updated: December, 9, 2024.
 Natural Language Processing (NLP) for optimizing career advancement prospects.
 <img width="523" alt="SCICU" src="https://github.com/spawar2/NSF-SCICU-2022/assets/25118302/8daa9e91-9751-4197-8f80-e9bfddc20965">
-
+(February 1, 2022-December 31, 2022).
+Award (Start date- End date).
 [App Deployment:](https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/)
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, United States of America (USA). Co-PI/co-PI (Principal Investigator).
 [Master:](https://github.com/JoshuaKiplimo/ResParse)
