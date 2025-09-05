@@ -8,7 +8,7 @@ Award (Start date- End date). Artificial Intelligence.
 https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, United States of America (USA). Co-PI/co-PI (Principal Investigator).
 [Master:](https://github.com/JoshuaKiplimo/ResParse)
 https://github.com/JoshuaKiplimo Student Graduations: https://shorturl.at/jAmLF
-SC Independent Colleges & Universities SCICU Undergraduate Student/Faculty Research Program (2 February, 2022): Utilizing Natural Language Processing (NLP) to increase the effectiveness of finding career opportunities. Student-**Joshua Kiprono  π​++ (Thesis Advisor).†: The Alice Carson Tisdale Honors College/Center at Claflin University.
+SC Independent Colleges & Universities SCICU Undergraduate Student/Faculty Research Program, Columbia, South Carolina, USA. (2 February, 2022): Utilizing Natural Language Processing (NLP) to increase the effectiveness of finding career opportunities. Student-**Joshua Kiprono  π​++ (Thesis Advisor).†: The Alice Carson Tisdale Honors College/Center at Claflin University.
 https://www.claflin.edu/academics-research/special-programs-and-opportunities/honors-college, $7,169 (Direct costs, 100%). App Deploy: https://joshuakiplimo-resparse-resumematch-6a8pxp.streamlit.app/ Poster Presentation Link , Presently software engineer at Atlassian (https://www.atlassian.com/).
 Thesis presentation: https://youtu.be/Jx6Q7TaISIU
 https://scicu.org/events/scicu-undergraduate-student-faculty-research-symposium-4/
