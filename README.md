@@ -22,7 +22,7 @@ PPT: https://www.claflin-computation.com/_files/ugd/81dd80_8bb6fb5a75384bd5888fd
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 <img width="712" alt="SCICU" src="https://github.com/spawar2/NSF-SCICU-2022/assets/25118302/cf45c6e2-5b03-4631-b046-6ce6ed569e40">
 ![download](https://github.com/user-attachments/assets/5e7901d2-028c-4adb-9dc5-e115f152251a)
-
+https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/7/3679/files/2024/02/SCICU-bf69010ba73e3282-300x225.jpg
 Programming language: + Python.
 π: Classes taught: CSCI/HNTH391/392 (https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-391-1).
 
